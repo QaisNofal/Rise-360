@@ -1,0 +1,32 @@
+{
+  "version": "3.66.28355.0",
+  "course_id": "6WBMlVbazCd_course_id",
+  "title": "QuizTime",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Game"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6rex7oZvreJ",
+      "title": "Intro Page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5W4DE8ZXLZs",
+      "title": "Board",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 896
+  },
+  "stage": {
+    "width": 1200,
+    "height": 825
+  }
+}
